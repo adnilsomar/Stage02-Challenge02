@@ -1,4 +1,4 @@
-# :green_circle: Stage 02 - Challenge 02. :sunflower:
+# :green_circle: Stage 02 - Challenge 02.:sunflower:
 ### **Treine.me :point_right: Desafio da Rocketseat para treinar conceitos básicos em HTML e CSS**
 
 ![treiname](https://user-images.githubusercontent.com/126821291/228064707-065d15d1-c61d-40cc-b226-3b01d9c4f01c.png)
